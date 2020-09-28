@@ -1,0 +1,388 @@
+,Name,School Type,lat,long
+0,Admiralty Primary School,Primary,1.4430452,103.8003087
+1,Ahmad Ibrahim Primary School,Primary,1.4337349,103.8327825
+2,Ai Tong School,Primary,1.3610364,103.8326038
+3,Alexandra Primary School,Primary,1.2912968,103.8235297
+4,Anchor Green Primary School,Primary,1.3909254,103.8874074
+5,Anderson Primary School,Primary,1.3841826,103.8391685
+6,Anglo-Chinese School (Junior),Primary,1.3090345,103.8416385
+7,Anglo-Chinese School (Primary),Primary,1.3187616,103.8336693
+8,Angsana Primary School,Primary,1.3561474,103.940848
+9,Ang Mo Kio Primary School,Primary,1.3693469,103.839815
+10,Balestier Hill Primary School,Primary,1.3255988,103.8444124
+11,Beacon Primary School,Primary,1.384235,103.77377
+12,Bedok Green Primary School,Primary,1.3238817,103.937779
+13,Bendemeer Primary School,Primary,1.322193,103.8650808
+14,Blangah Rise Primary School,Primary,1.2761957,103.8086755
+15,Boon Lay Garden Primary School,Primary,1.3434436,103.712979
+16,Bukit Panjang Primary School,Primary,1.3736018,103.7673379
+17,Bukit Timah Primary School,Primary,1.337385,103.766768
+18,Bukit View Primary School,Primary,1.3459352,103.75348
+19,Canberra Primary School,Primary,1.4510024,103.8133518
+20,Canossa Catholic Primary School,Primary,1.3266355,103.8818964
+21,Cantonment Primary School,Primary,1.2753328,103.8397984
+22,Casuarina Primary School,Primary,1.3725006,103.9570205
+23,Catholic High School (Primary),Primary,1.3546103,103.8429347
+24,Cedar Primary School,Primary,1.3356131,103.8754605
+25,Changkat Primary School,Primary,1.3405005,103.952168
+26,CHIJ (Katong) Primary,Primary,1.3064156,103.9087665
+27,CHIJ (Kellock),Primary,1.2749325,103.8279734
+28,CHIJ Our Lady of Good Counsel,Primary,1.3574239,103.8637879
+29,CHIJ Our Lady of the Nativity,Primary,1.3735318,103.897543
+30,CHIJ Our Lady Queen of Peace,Primary,1.3666563,103.7675404
+31,CHIJ Primary (Toa Payoh),Primary,1.3328881,103.8423106
+344,Dunman High School,Junior College,1.2991183,103.8821713
+33,Chongfu School,Primary,1.4386472,103.8394566
+34,Chongzheng Primary School,Primary,1.3508639,103.9512472
+35,Chua Chu Kang Primary School,Primary,1.3778247,103.7401234
+36,Clementi Primary School,Primary,1.3153018,103.7632831
+37,Compassvale Primary School,Primary,1.3947733,103.8979656
+38,Concord Primary School,Primary,1.3803524,103.7341496
+39,Coral Primary School,Primary,1.368314,103.9509974
+40,Corporation Primary School,Primary,1.3508058,103.7077026
+41,Da Qiao Primary School,Primary,1.371969,103.85865
+42,Damai Primary School,Primary,1.3356727,103.9211476
+43,Dazhong Primary School,Primary,1.3593772,103.7480154
+44,De La Salle School,Primary,1.3950758,103.7411836
+45,East Coast Primary School,Primary,1.3294373,103.9200331
+46,East Spring Primary School,Primary,1.353454,103.9617985
+47,East View Primary School,Primary,1.3469172,103.9394788
+48,Edgefield Primary School,Primary,1.4004367,103.9076926
+49,Elias Park Primary School,Primary,1.3749538,103.9452385
+50,Endeavour Primary School,Primary,1.45457,103.8149894
+51,Eunos Primary School,Primary,1.3245231,103.9043036
+52,Evergreen Primary School,Primary,1.4440874,103.7928493
+53,Fairfield Methodist School (Primary),Primary,1.3004399,103.7827017
+54,Farrer Park Primary School,Primary,1.312316,103.850874
+55,Fengshan Primary School,Primary,1.3302242,103.9318271
+56,Fernvale Primary School,Primary,1.3899534,103.8717303
+57,First Toa Payoh Primary School,Primary,1.340145,103.855651
+58,Frontier Primary School,Primary,1.3368484,103.6975855
+59,Fuchun Primary School,Primary,1.4303633,103.7769802
+60,Fuhua Primary School,Primary,1.3365456,103.7364909
+61,Gan Eng Seng Primary School,Primary,1.2857679,103.8130738
+62,Geylang Methodist School (Primary),Primary,1.3182216,103.8816494
+63,Gongshang Primary School,Primary,1.3571755,103.9491666
+64,Greendale Primary School,Primary,1.396398,103.9126762
+65,Greenridge Primary School,Primary,1.3856645,103.7657414
+66,Greenwood Primary School,Primary,1.4398554,103.8024203
+67,Guangyang Primary School,Primary,1.345887,103.849315
+68,Haig Girls' School,Primary,1.3116258,103.9028234
+69,Holy Innocents' Primary School,Primary,1.3665784,103.8915223
+70,Henry Park Primary School,Primary,1.3167825,103.7841363
+71,Hong Wen School,Primary,1.3217339,103.8576625
+72,Horizon Primary School,Primary,1.3998229,103.9109415
+73,Hougang Primary School,Primary,1.3773882,103.8809088
+74,Huamin Primary School,Primary,1.4269293,103.8442699
+75,Innova Primary School,Primary,1.4295287,103.7882451
+76,Jiemin Primary School,Primary,1.427671,103.830498
+77,Jing Shan Primary School,Primary,1.3723262,103.8517128
+78,Junyuan Primary School,Primary,1.3479731,103.9399917
+79,Jurong Primary School,Primary,1.348679,103.732992
+80,Jurong West Primary School,Primary,1.3390579,103.6966624
+81,Juying Primary School,Primary,1.3387394,103.6883379
+82,Keming Primary School,Primary,1.3454147,103.7562455
+83,Kheng Cheng School,Primary,1.337666,103.847796
+84,Kong Hwa School,Primary,1.3110869,103.8881778
+85,Kranji Primary School,Primary,1.3936035,103.747804
+86,Kuo Chuan Presbyterian Primary School,Primary,1.3494106,103.8530748
+87,Lakeside Primary School,Primary,1.338468,103.7159583
+88,Lianhua Primary School,Primary,1.3536176,103.7544359
+89,Loyang Primary School,Primary,1.3709326,103.95595
+90,MacPherson Primary School,Primary,1.3246436,103.881867
+91,Maha Bodhi School,Primary,1.3284131,103.9015463
+232,Dunman High School,Secondary,1.2991183,103.8821713
+93,Marsiling Primary School,Primary,1.4341066,103.7733346
+94,Marymount Convent School,Primary,1.3406992,103.8399377
+95,Mayflower Primary School,Primary,1.3762393,103.8336098
+96,Mee Toh School,Primary,1.3947729,103.9089333
+97,Meridian Primary School,Primary,1.3760374,103.9328601
+353,St. Joseph's Junior College,Junior College,1.3173615,103.8436396
+99,Montfort Junior School,Primary,1.373864,103.889614
+100,Nan Chiau Primary School,Primary,1.3923982,103.8903328
+101,Nan Hua Primary School,Primary,1.3197989,103.7619428
+102,Nanyang Primary School,Primary,1.3210855,103.8077117
+103,Ngee Ann Primary School,Primary,1.3056219,103.9180054
+104,Naval Base Primary School,Primary,1.4161125,103.8390841
+105,New Town Primary School,Primary,1.2999972,103.7978857
+106,Northland Primary School,Primary,1.4211604,103.8383873
+107,Northoaks Primary School,Primary,1.456638,103.813826
+108,North Spring Primary School,Primary,1.3872177,103.9036033
+109,North View Primary School,Primary,1.427616,103.8461243
+110,North Vista Primary School,Primary,1.3829142,103.8958131
+111,Oasis Primary School,Primary,1.4047715,103.9109669
+112,Opera Estate Primary School,Primary,1.3193914,103.9235753
+113,Palm View Primary School,Primary,1.3839074,103.8886066
+114,Park View Primary School,Primary,1.3775806,103.9373474
+115,Pasir Ris Primary School,Primary,1.372403,103.9629666
+116,Paya Lebar Methodist Girls' School (Primary),Primary,1.3510352,103.8826242
+117,Pei Chun Public School,Primary,1.3371187,103.8558037
+118,Pei Hwa Presbyterian Primary School,Primary,1.338081,103.77613
+119,Pei Tong Primary School,Primary,1.3161197,103.7675906
+120,Peiying Primary School,Primary,1.4175241,103.8302678
+121,Pioneer Primary School,Primary,1.3486615,103.6933915
+122,Poi Ching School,Primary,1.3577836,103.9352454
+123,Princess Elizabeth Primary School,Primary,1.349245,103.7409454
+124,Punggol Cove Primary School,Primary,1.4116958,103.8964213
+125,Punggol Green Primary School,Primary,1.4018544,103.8988531
+126,Punggol Primary School,Primary,1.3774346,103.8945968
+127,Punggol View Primary School,Primary,1.4052956,103.9051799
+128,Qifa Primary School,Primary,1.3128256,103.756921
+129,Qihua Primary School,Primary,1.442105,103.788557
+130,Queenstown Primary School,Primary,1.2962267,103.8057737
+131,Radin Mas Primary School,Primary,1.2750693,103.8238799
+132,Raffles Girls' Primary School,Primary,1.3300317,103.8062274
+133,Red Swastika School,Primary,1.3331408,103.9341987
+134,Riverside Primary School,Primary,1.4471894,103.799571
+135,River Valley Primary School,Primary,1.2938838,103.8342007
+136,Rivervale Primary School,Primary,1.393196,103.9021943
+137,Rosyth School,Primary,1.3729086,103.8746431
+138,Rulang Primary School,Primary,1.34694,103.71896
+139,Sembawang Primary School,Primary,1.4454114,103.8209921
+140,Sengkang Green Primary School,Primary,1.3925337,103.8751169
+141,Seng Kang Primary School,Primary,1.3894228,103.8976198
+142,Shuqun Primary School,Primary,1.3475475,103.7215551
+143,Si Ling Primary School,Primary,1.432693,103.78577
+144,Singapore Chinese Girls’ School (Primary),Primary,1.3213031,103.8266873
+145,South View Primary School,Primary,1.381324,103.7449564
+146,Springdale Primary School,Primary,1.3949721,103.8874914
+147,Stamford Primary School,Primary,1.3039165,103.8572432
+148,St. Andrew's Junior School,Primary,1.3314591,103.8650358
+149,St. Anthony's Canossian Primary School,Primary,1.3342821,103.941072
+150,St. Anthony's Primary School,Primary,1.3641887,103.7467703
+151,St. Gabriel's Primary School,Primary,1.3496447,103.8601561
+152,St. Hilda's Primary School,Primary,1.3496843,103.9361045
+153,St. Joseph's Institution Junior,Primary,1.3173615,103.8454801
+154,St. Margaret's Primary School,Primary,1.3250653,103.8794864
+155,St. Stephen's School,Primary,1.3190059,103.9154153
+156,Tampines North Primary School,Primary,1.360298,103.948581
+157,Tampines Primary School,Primary,1.3500829,103.9423044
+158,Tanjong Katong Primary School,Primary,1.3053784,103.8981635
+159,Tao Nan School,Primary,1.3049059,103.911434
+160,Teck Ghee Primary School,Primary,1.3653954,103.8506032
+161,Teck Whye Primary School,Primary,1.3837636,103.7537174
+162,Telok Kurau Primary School,Primary,1.3308237,103.911406
+163,Temasek Primary School,Primary,1.3175073,103.9454839
+164,Townsville Primary School,Primary,1.3600534,103.8537829
+165,Unity Primary School,Primary,1.403245,103.74729
+166,Valour Primary School,Primary,1.4065167,103.8995102
+167,Waterway Primary School,Primary,1.3990541,103.9184708
+168,Wellington Primary School,Primary,1.4522446,103.8197734
+169,West Grove Primary School,Primary,1.3446825,103.696754
+170,West Spring Primary School,Primary,1.3893631,103.7662554
+171,Westwood Primary School,Primary,1.3472361,103.6982821
+172,West View Primary School,Primary,1.3837275,103.7579532
+173,White Sands Primary School,Primary,1.3654493,103.9610714
+174,Woodgrove Primary School,Primary,1.433264,103.7900902
+175,Woodlands Primary School,Primary,1.436771,103.7896053
+176,Woodlands Ring Primary School,Primary,1.4345519,103.7978994
+177,Xinghua Primary School,Primary,1.357958,103.8901418
+178,Xingnan Primary School,Primary,1.3425489,103.6870917
+179,Xinmin Primary School,Primary,1.371371,103.883074
+180,Xishan Primary School,Primary,1.4334989,103.8378387
+181,Yangzheng Primary School,Primary,1.3488247,103.8683225
+182,Yew Tee Primary School,Primary,1.396978,103.7511849
+183,Yio Chu Kang Primary School,Primary,1.3779984,103.8855819
+184,Yishun Primary School,Primary,1.4334926,103.8338127
+185,Yu Neng Primary School,Primary,1.3338292,103.9318969
+186,Yuhua Primary School,Primary,1.3429774,103.7409109
+187,Yumin Primary School,Primary,1.3516199,103.9511251
+188,Zhangde Primary School,Primary,1.284578,103.826193
+189,Zhenghua Primary School,Primary,1.3801974,103.7670015
+190,Zhonghua Primary School,Primary,1.359895,103.869558
+191,Admiralty Secondary School,Secondary,1.4462673,103.8026082
+192,Ahmad Ibrahim Secondary School,Secondary,1.4364306,103.8299804
+193,Anderson Secondary School,Secondary,1.375197,103.849152
+194,Anglican High School,Secondary,1.3307761,103.9416359
+195,Anglo-Chinese School (Barker Road),Secondary,1.3195044,103.8360738
+196,Anglo-Chinese School (Independent),Secondary,1.3025841,103.7807147
+197,Ang Mo Kio Secondary School,Secondary,1.3672319,103.8426326
+198,Assumption English School,Secondary,1.3681024,103.7661047
+199,Bartley Secondary School,Secondary,1.3402886,103.8828396
+200,Beatty Secondary School,Secondary,1.3416799,103.8518807
+201,Bedok Green Secondary School,Secondary,1.3341416,103.935336
+202,Bedok South Secondary School,Secondary,1.3261765,103.9506551
+203,Bedok View Secondary School,Secondary,1.3246274,103.9438629
+204,Bendemeer Secondary School,Secondary,1.3245163,103.8605913
+205,Boon Lay Secondary School,Secondary,1.3433488,103.7018871
+206,Bowen Secondary School,Secondary,1.371165,103.877974
+207,Broadrick Secondary School,Secondary,1.3072755,103.8872129
+208,Bukit Batok Secondary School,Secondary,1.3484677,103.7401883
+209,Bukit Merah Secondary School,Secondary,1.2858957,103.813113
+210,Bukit Panjang Government High School,Secondary,1.3818716,103.7385804
+211,Bukit View Secondary School,Secondary,1.3460903,103.752164
+212,Catholic High School,Secondary,1.3546049,103.8429347
+213,Canberra Secondary School,Secondary,1.4536632,103.8144127
+214,Cedar Girls' Secondary School,Secondary,1.3342746,103.8741655
+215,Changkat Changi Secondary School,Secondary,1.3410275,103.9528325
+216,CHIJ Katong Convent (Secondary),Secondary,1.3065932,103.9173898
+217,CHIJ Secondary (Toa Payoh),Secondary,1.332431,103.8432942
+218,CHIJ St. Joseph's Convent,Secondary,1.391747,103.902461
+355,Temasek Junior College,Junior College,1.3186051,103.9355346
+220,CHIJ St. Theresa's Convent,Secondary,1.2754058,103.8218559
+221,Chua Chu Kang Secondary School,Secondary,1.3834832,103.7515449
+222,Christ Church Secondary School,Secondary,1.4263994,103.7934218
+223,Chung Cheng High School (Main),Secondary,1.3054121,103.8915495
+224,Chung Cheng High School (Yishun),Secondary,1.418737,103.837311
+225,Clementi Town Secondary School,Secondary,1.3154596,103.7622755
+226,Commonwealth Secondary School,Secondary,1.3189509,103.7455955
+227,Compassvale Secondary School,Secondary,1.396086,103.899711
+228,Crescent Girls' School,Secondary,1.2940214,103.8168823
+229,Damai Secondary School,Secondary,1.3364646,103.9270415
+230,Deyi Secondary School,Secondary,1.366291,103.8526888
+231,Dunearn Secondary School,Secondary,1.363167,103.7445869
+233,Dunman Secondary School,Secondary,1.3610555,103.9559258
+234,East Spring Secondary School,Secondary,1.3568208,103.9607517
+235,Edgefield Secondary School,Secondary,1.4002914,103.9021546
+236,Evergreen Secondary School,Secondary,1.4415383,103.7936114
+237,Fairfield Methodist Secondary School,Secondary,1.3017827,103.7844805
+238,Fajar Secondary School,Secondary,1.3755092,103.7645411
+239,Fuchun Secondary School,Secondary,1.4302916,103.7769467
+240,Fuhua Secondary School,Secondary,1.347278,103.7265636
+241,Gan Eng Seng School,Secondary,1.2893316,103.8237338
+242,Geylang Methodist School (Secondary),Secondary,1.3174867,103.8822403
+243,Greendale Secondary School,Secondary,1.3974271,103.9118624
+244,Greenridge Secondary School,Secondary,1.3820599,103.7738085
+245,Guangyang Secondary School,Secondary,1.344693,103.850566
+246,Hai Sing Catholic School,Secondary,1.3745291,103.9551952
+247,Hillgrove Secondary School,Secondary,1.3527623,103.7528841
+248,Holy Innocents' High School,Secondary,1.3711481,103.8938273
+249,Hong Kah Secondary School,Secondary,1.3521827,103.7271021
+250,Hougang Secondary School,Secondary,1.3775817,103.8823967
+251,Hua Yi Secondary School,Secondary,1.3527239,103.7216378
+346,Hwa Chong Junior College,Junior College,1.3259054,103.805715
+253,Junyuan Secondary School,Secondary,1.3533278,103.9335232
+254,Jurong Secondary School,Secondary,1.330365,103.724282
+255,Jurong West Secondary School,Secondary,1.3358625,103.7016785
+256,Jurongville Secondary School,Secondary,1.3516392,103.7291022
+257,Juying Secondary School,Secondary,1.3395385,103.6871958
+258,Kent Ridge Secondary School,Secondary,1.3013766,103.7649426
+259,Kranji Secondary School,Secondary,1.3906192,103.7415227
+260,Kuo Chuan Presbyterian Secondary School,Secondary,1.349824,103.8549463
+261,Loyang View Secondary School,Secondary,1.3668644,103.9568413
+262,Manjusri Secondary School,Secondary,1.3275139,103.9013217
+252,Hwa Chong Institution,Secondary,1.3259054,103.805715
+264,Marsiling Secondary School,Secondary,1.4381054,103.7763303
+265,Mayflower Secondary School,Secondary,1.3686252,103.8352119
+266,Meridian Secondary School,Secondary,1.3675302,103.9492665
+349,National Junior College,Junior College,1.330476,103.8023113
+268,Montfort Secondary School,Secondary,1.374084,103.888829
+269,Nan Chiau High School,Secondary,1.3893933,103.8899829
+270,Nan Hua High School,Secondary,1.3082792,103.768856
+271,Nanyang Girls' High School,Secondary,1.3307195,103.8024603
+273,Naval Base Secondary School,Secondary,1.4189335,103.830682
+274,New Town Secondary School,Secondary,1.3100184,103.7731811
+275,Ngee Ann Secondary School,Secondary,1.3542893,103.9568201
+276,North Vista Secondary School,Secondary,1.38121,103.8990751
+277,Northbrooks Secondary School,Secondary,1.4210901,103.8451567
+278,Northland Secondary School,Secondary,1.4358326,103.838005
+279,NUS High School of Mathematics and Science,Secondary,1.3071072,103.7693914
+280,Orchid Park Secondary School,Secondary,1.4156038,103.8359012
+281,Outram Secondary School,Secondary,1.286507,103.837091
+282,Pasir Ris Crest Secondary School,Secondary,1.3728674,103.9594764
+283,Pasir Ris Secondary School,Secondary,1.354757,103.948533
+284,Paya Lebar Methodist Girls' School (Secondary),Secondary,1.3510298,103.8848129
+285,Pei Hwa Secondary School,Secondary,1.3907209,103.8787958
+286,Peicai Secondary School,Secondary,1.3586499,103.8705579
+287,Peirce Secondary School,Secondary,1.3663664,103.8298585
+288,Ping Yi Secondary School,Secondary,1.3277161,103.9203587
+289,Presbyterian High School,Secondary,1.3821667,103.8408113
+290,Punggol Secondary School,Secondary,1.4026867,103.9091383
+291,Queenstown Secondary School,Secondary,1.2937571,103.8131968
+292,Queensway Secondary School,Secondary,1.3004794,103.8020094
+293,Raffles Girls' School (Secondary),Secondary,1.3432054,103.8437236
+294,Raffles Institution,Secondary,1.3466753,103.8434229
+295,Regent Secondary School,Secondary,1.3936053,103.7510018
+296,Riverside Secondary School,Secondary,1.4404834,103.7864023
+297,River Valley High School,Secondary,1.3431764,103.7075063
+298,St. Andrew's Secondary School,Secondary,1.3305904,103.8657366
+299,St. Patrick's School,Secondary,1.3084693,103.9146591
+300,"School of Science and Technology, Singapore",Secondary,1.3136526,103.7742638
+301,"School of the Arts, Singapore",Secondary,1.2993871,103.8486967
+302,Sembawang Secondary School,Secondary,1.4454666,103.8168532
+303,Seng Kang Secondary School,Secondary,1.386517,103.897892
+304,Serangoon Garden Secondary School,Secondary,1.3698804,103.8694133
+305,Serangoon Secondary School,Secondary,1.3748927,103.9022635
+306,Shuqun Secondary School,Secondary,1.3400348,103.7399054
+307,Singapore Chinese Girls' School,Secondary,1.3212977,103.828876
+308,Singapore Sports School,Secondary,1.426703,103.789056
+309,Springfield Secondary School,Secondary,1.3498342,103.9278901
+310,St. Anthony's Canossian Secondary School,Secondary,1.3343266,103.9419966
+311,St. Gabriel's Secondary School,Secondary,1.3470106,103.8757857
+312,St. Hilda's Secondary School,Secondary,1.3503799,103.936745
+313,St. Margaret's Secondary School,Secondary,1.3199548,103.8100803
+314,St. Joseph's Institution,Secondary,1.3229154,103.8285918
+315,Swiss Cottage Secondary School,Secondary,1.3646741,103.7506408
+316,Tanglin Secondary School,Secondary,1.3097054,103.7581468
+317,Tampines Secondary School,Secondary,1.3493258,103.9445009
+318,Tanjong Katong Girls' School,Secondary,1.308631,103.895897
+319,Tanjong Katong Secondary School,Secondary,1.3083201,103.897576
+320,Teck Whye Secondary School,Secondary,1.3831667,103.7551671
+98,Methodist Girls' School (Primary),Primary,1.3330778,103.7831944
+322,Temasek Secondary School,Secondary,1.3160282,103.9472248
+323,Unity Secondary School,Secondary,1.3994982,103.7459346
+324,Victoria School,Secondary,1.3085536,103.9253105
+325,West Spring Secondary School,Secondary,1.387707,103.760018
+326,Westwood Secondary School,Secondary,1.3537847,103.7017948
+327,Whitley Secondary School,Secondary,1.3555261,103.8429226
+328,Woodgrove Secondary School,Secondary,1.4289721,103.7968274
+329,Woodlands Ring Secondary School,Secondary,1.4364147,103.8007288
+330,Woodlands Secondary School,Secondary,1.4395545,103.7723243
+331,Xinmin Secondary School,Secondary,1.3720807,103.8828692
+332,Yio Chu Kang Secondary School,Secondary,1.3783368,103.8419271
+333,Yishun Secondary School,Secondary,1.428129,103.828833
+334,Yishun Town Secondary School,Secondary,1.4327266,103.8381007
+335,Yuan Ching Secondary School,Secondary,1.341917,103.720994
+336,Yuhua Secondary School,Secondary,1.3473186,103.722648
+337,Yusof Ishak Secondary School,Secondary,1.342423,103.760309
+338,Yuying Secondary School,Secondary,1.356753,103.8900604
+339,Zhenghua Secondary School,Secondary,1.388271,103.764939
+340,Zhonghua Secondary School,Secondary,1.3496094,103.8693356
+341,Anglo-Chinese Junior College,Junior College,1.3031354,103.785109
+342,Anglo-Chinese IB Junior College,Junior College,1.3110657,103.7996395
+343,Catholic Junior College,Junior College,1.3256673,103.8339675
+267,Methodist Girls' School (Secondary),Secondary,1.3330778,103.7831944
+345,Eunoia Junior College,Junior College,1.3626165,103.8394527
+92,Maris Stella High School,Primary,1.341737,103.8782839
+347,Jurong Pioneer Junior College,Junior College,1.384627,103.753951
+348,Nanyang Junior College,Junior College,1.3514162,103.8666765
+263,Maris Stella High School,Secondary,1.341737,103.8782839
+350,Raffles Junior College,Junior College,1.3464722,103.8411998
+351,River Valley Junior College,Junior College,1.3440137,103.7068993
+352,Saint Andrew's Junior College,Junior College,1.3332507,103.8631747
+32,CHIJ St. Nicholas Girls' School,Primary,1.3740364,103.8319816
+354,Tampines Meridian Junior College,Junior College,1.3760199,103.934816
+219,CHIJ St. Nicholas Girls' School,Secondary,1.3740364,103.8319816
+356,Victoria Junior College,Junior College,1.3072408,103.9171978
+357,Yishun Innova Junior College,Junior College,1.4252209,103.8311055
+358,Anderson Serangoon Junior College,Junior College,1.3788363,103.8455069
+359,Singapore Polytechnic,Polytechnic,1.3097757,103.7775495
+360,Ngee Ann Polytechnic,Polytechnic,1.332064,103.7743581
+361,Temasek Polytechnic,Polytechnic,1.3451847,103.9318122
+362,Nanyang Polytechnic,Polytechnic,1.37995,103.8489487
+363,Republic Polytechnic,Polytechnic,1.4432159,103.7852455
+364,ITE College Central,ITE,1.377746,103.8560712
+365,ITE College West,ITE,1.3755678,103.7521948
+366,ITE College East,ITE,1.3346447,103.9544204
+367,National University of Singapore,University,1.2966426,103.7763939
+368,Nanyang Technological University,University,1.3483099,103.6831347
+369,Singapore Management University,University,1.2962727,103.8501578
+370,Singapore University of Technology and Design,University,1.3405942,103.9631268
+371,Singapore Institute of Technology,University,1.3014292,103.7805095
+372,Singapore University of Social Sciences,University,1.329081,103.7761967
+373,Auston Institute of Management,University,1.3144682,103.8660235
+374,DIMENSIONS International College,University,1.2956694,103.8380789
+375,East Asia Institute of Management (EASB),University,1.3286254,103.8457879
+376,ERC Institute,University,1.3075751,103.8807566
+377,Informatics Academy,University,1.2974647,103.8519843
+378,ITC School of Laws,University,1.2881869,103.8470645
+379,Kaplan Higher Education Academy,University,1.3021165,103.8474458
+380,Management Development Institute of Singapore,University,1.2970726,103.8011673
+381,Nanyang Institute of Management,University,1.2892505,103.8472712
+382,Ngee Ann Academy,University,1.3025578,103.8323713
+383,PSB Academy,University,1.291433,103.85549
+384,Raffles College of Higher Education,University,1.2890078,103.8434095
+385,SDH Institute,University,1.2746162,103.8458085
+386,Singapore Institute of Management,University,1.3294012,103.7761745
+387,Singapore Raffles Music College,University,1.2752896,103.8013758
+388,TMC Academy,University,1.3013812,103.8484284
